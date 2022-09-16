@@ -2,6 +2,8 @@
 
 Hello thank you for inviting me to take the test! 
 
-I used border for all of my spacing. This can sometimes not work perfectly on dark modes but for most other mailboxes it's great!
+For the Outlook 2007 format I believe I got my email as far as possible without creating a separate email design. 
 
-I used a different image for the profile picture I hope that's ok.
+I used border for spacing which works great on most inboxes but not in Outlook. Also the alignment of the first and last unordered list are slightly off. Otherwise I think the design and Javascript are complete!
+
+

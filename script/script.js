@@ -15,11 +15,7 @@ function insertClientName() {
 
     messages.forEach(message => {
         message.textContent = clientName1
-    });
-
-
-
-    clientNameEl.textContent = clientName1  
+    });    
 }
 
 function insertExecName() {
@@ -32,8 +28,7 @@ function insertExecName() {
 
 }
 
-insertClientName()
-insertExecName()
+
 
 let englishVar = "English"
 let frenchSymbol = "French"
@@ -46,6 +41,8 @@ function printLanguage() {
     languageEl.textContent = frenchVar
 }
 
+insertClientName()
+insertExecName()
 printLanguage()
 
 

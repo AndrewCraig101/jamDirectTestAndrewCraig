@@ -1,5 +1,3 @@
-console.log('hello')
-
 
 // PRINTING CUSTOM NAMES
 
@@ -8,8 +6,6 @@ function insertClientName() {
     let clientName1 = "Amy Jones"
     let clientName2 = "Mark Hamil"
     let clientName3 = "Dan Lorenzo"
-
-    // let clientNameEl = document.querySelectorAll('clientNameSpan')
 
     let messages = document.querySelectorAll(".clientNameSpan");
 
@@ -28,7 +24,7 @@ function insertExecName() {
 
 }
 
-
+// LANGUAGE
 
 let englishVar = "English"
 let frenchSymbol = "French"
